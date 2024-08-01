@@ -1,0 +1,11 @@
+@import url('./views/dashboard-view.css');
+@import url('./views/map-view.css');
+@import url('./views/image-gallery-view.css');    html {
+      --lumo-border-radius-s: 1px;
+      --lumo-border-radius-m: 2px;
+      --lumo-border-radius-l: 4px;
+      --lumo-primary-color: hsl(214, 76%, 48%);
+      --lumo-primary-color-50pct: hsla(214, 76%, 48%, 0.5);
+      --lumo-primary-color-10pct: hsla(214, 76%, 48%, 0.1);
+
+    }
